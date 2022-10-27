@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Aleffelisberto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/Aleffelisberto/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Aleffelisberto/Aleffelisberto/blob/output/github-contribution-grid-snake.gif)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
