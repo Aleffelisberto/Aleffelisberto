@@ -38,6 +38,11 @@
 ### Studying at the moment:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
+<div align="center">
+  <br/>
+  <img src="https://usegifs.com/wp-content/uploads/2021/11/Like-hacking-vibrations.gif" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bad4d8&height=120&section=footer"/>
