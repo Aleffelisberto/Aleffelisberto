@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aleffelisberto&show_icons=true&count_private=true&hide_border=true&title_color=bad4d8&icon_color=bad4d8&text_color=c9d1d9&bg_color=0d1117" alt="Alefsandler Felisberto github stats" /> 
 </div>
 
-![snake-gif](https://github.com/Aleffelisberto/Aleffelisberto/blob/output/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/Aleffelisberto/Aleffelisberto/blob/output/github-snake.svg)
 
 ### Main skills and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
